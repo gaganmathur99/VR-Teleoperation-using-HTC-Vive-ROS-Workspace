@@ -1,0 +1,57 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/garvit/ws_moveit/devel/include/**",
+        "/home/garvit/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/garvit/catkin_ws/src/ros_controllers/ackermann_steering_controller/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+        "/home/garvit/catkin_ws/src/ros_controllers/diff_drive_controller/include/**",
+        "/home/garvit/catkin_ws/src/ros_controllers/effort_controllers/include/**",
+        "/home/garvit/catkin_ws/src/ros_controllers/force_torque_sensor_controller/include/**",
+        "/home/garvit/catkin_ws/src/ros_controllers/forward_command_controller/include/**",
+        "/home/garvit/catkin_ws/src/franka_ros/franka_control/include/**",
+        "/home/garvit/catkin_ws/src/franka_ros/franka_example_controllers/include/**",
+        "/home/garvit/catkin_ws/src/franka_ros/franka_gazebo/include/**",
+        "/home/garvit/catkin_ws/src/franka_ros/franka_gripper/include/**",
+        "/home/garvit/catkin_ws/src/franka_ros/franka_hw/include/**",
+        "/home/garvit/ws_moveit/src/geometric_shapes/include/**",
+        "/home/garvit/catkin_ws/src/ros_controllers/gripper_action_controller/include/**",
+        "/home/garvit/catkin_ws/src/ros_controllers/imu_sensor_controller/include/**",
+        "/home/garvit/catkin_ws/src/ros_controllers/joint_state_controller/include/**",
+        "/home/garvit/catkin_ws/src/ros_controllers/joint_trajectory_controller/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+        "/home/garvit/ws_moveit/src/moveit_resources/prbt_ikfast_manipulator_plugin/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_ros/benchmarks/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_ros/move_group/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_ros/robot_interaction/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_ros/moveit_servo/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_setup_assistant/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+        "/home/garvit/ws_moveit/src/moveit_visual_tools/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/garvit/catkin_ws/src/ros_controllers/position_controllers/include/**",
+        "/home/garvit/catkin_ws/src/rosparam_shortcuts/include/**",
+        "/home/garvit/ws_moveit/src/rviz_visual_tools/include/**",
+        "/home/garvit/ws_moveit/src/moveit/moveit_planners/sbpl/core/sbpl_interface/include/**",
+        "/home/garvit/ws_moveit/src/srdfdom/include/**",
+        "/home/garvit/catkin_ws/src/ros_controllers/velocity_controllers/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
